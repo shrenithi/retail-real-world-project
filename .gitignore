@@ -1,0 +1,10 @@
+# Local tooling ignore
+git-bin/
+powershell.cmd
+README_temp.md
+
+# Python cache and checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Region,Profile,JoinDate
+C10000,41,Female,Europe,Regular,2024-04-23
+C10001,34,Male,North America,Inactive,2023-07-28
+C10002,54,Male,South America,Occasional,2023-06-13
+C10003,45,Male,North America,Regular,2024-06-14
+C10004,38,Male,North America,Occasional,2023-10-19
+C10005,18,Male,North America,Regular,2023-10-04
+C10006,53,Male,Europe,Occasional,2023-09-23
+C10007,33,Male,Europe,Regular,2023-08-11
+C10008,28,Female,North America,Regular,2024-06-12
+C10009,32,Female,North America,Inactive,2023-07-23
+C10010,45,Male,Europe,Regular,2024-05-12
+C10011,21,Male,South America,Occasional,2024-06-14
+C10012,44,Male,North America,VIP,2024-08-30
+C10013,38,Male,North America,Regular,2024-03-06
+C10014,30,Male,Europe,Regular,2023-07-15
+C10015,48,Female,North America,Inactive,2024-03-29
+C10016,27,Male,Asia-Pacific,Occasional,2024-01-03
+C10017,43,Female,Asia-Pacific,VIP,2023-06-17
+C10018,25,Female,Europe,Regular,2023-06-16
+C10019,32,Male,North America,Regular,2023-07-18
+C10020,45,Female,Europe,Regular,2023-09-20
+C10021,52,Female,Asia-Pacific,Occasional,2023-09-28
+C10022,35,Female,North America,VIP,2024-02-14
+C10023,54,Male,North America,Occasional,2024-04-04
+C10024,37,Female,North America,Regular,2023-06-14
+C10025,18,Female,North America,VIP,2024-03-14
+C10026,26,Female,Asia-Pacific,Occasional,2023-09-10
+C10027,29,Female,Asia-Pacific,Regular,2024-06-01
+C10028,37,Female,Asia-Pacific,Regular,2024-04-28
+C10029,47,Male,North America,Regular,2024-05-25
+C10030,39,Male,Europe,Regular,2024-03-06
+C10031,39,Male,North America,Regular,2024-01-01
+C10032,34,Female,Europe,Regular,2023-09-21
+C10033,40,Other,South America,Regular,2024-01-16
+C10034,18,Male,North America,Occasional,2024-03-28
+C10035,35,Female,North America,Regular,2023-10-21
+C10036,33,Male,Europe,Inactive,2024-07-19
+C10037,39,Male,Europe,Occasional,2024-08-19
+C10038,45,Male,Europe,Occasional,2023-06-04
+C10039,25,Female,North America,Occasional,2024-06-23
+C10040,24,Male,Europe,Occasional,2024-07-17
+C10041,29,Male,Europe,Regular,2023-08-21
+C10042,23,Female,North America,Inactive,2024-05-23
+C10043,41,Male,North America,Regular,2024-01-03
+C10044,45,Female,Europe,Regular,2023-11-22
+C10045,21,Male,North America,Inactive,2023-10-21
+C10046,39,Male,North America,Occasional,2023-08-19
+C10047,45,Female,Asia-Pacific,Occasional,2023-09-19
+C10048,27,Male,Asia-Pacific,Occasional,2024-10-03
+C10049,38,Male,North America,Occasional,2024-06-25
+C10050,58,Female,North America,Occasional,2023-11-20
+C10051,41,Male,North America,Occasional,2023-07-23
+C10052,47,Female,Europe,VIP,2023-07-18
+C10053,40,Male,North America,Regular,2023-12-12
+C10054,35,Female,Europe,Occasional,2023-07-20
+C10055,40,Female,Europe,Regular,2023-12-01
+C10056,43,Male,North America,Occasional,2024-08-07
+C10057,25,Male,South America,Inactive,2023-11-24
+C10058,33,Male,South America,Regular,2024-04-05
+C10059,44,Other,South America,Inactive,2023-10-14
+C10060,25,Female,North America,Regular,2024-07-18
+C10061,18,Female,South America,Occasional,2023-06-23
+C10062,25,Female,South America,Regular,2024-06-08
+C10063,37,Female,Asia-Pacific,Occasional,2024-01-22
+C10064,48,Male,North America,Occasional,2024-03-01
+C10065,48,Female,Asia-Pacific,Inactive,2023-08-03
+C10066,42,Female,Europe,Occasional,2024-10-11
+C10067,80,Female,Asia-Pacific,Regular,2024-09-15
+C10068,26,Female,North America,Regular,2023-12-11
+C10069,33,Female,North America,Occasional,2023-07-11
+C10070,30,Male,Europe,Occasional,2024-03-09
+C10071,49,Male,Europe,VIP,2023-10-29
+C10072,36,Female,Europe,Occasional,2024-07-29
+C10073,28,Other,Europe,Regular,2024-04-17
+C10074,28,Male,North America,VIP,2024-04-12
+C10075,46,Other,Asia-Pacific,Occasional,2024-08-27
+C10076,21,Male,North America,Regular,2024-08-15
+C10077,31,Female,Europe,Regular,2023-12-03
+C10078,61,Male,North America,Regular,2024-03-22
+C10079,48,Female,North America,Regular,2023-09-07
+C10080,41,Male,North America,Regular,2024-05-26
+C10081,45,Male,North America,Regular,2023-07-06
+C10082,55,Female,North America,Regular,2023-06-24
+C10083,18,Female,Europe,Inactive,2024-05-04
+C10084,24,Male,Europe,VIP,2023-09-25
+C10085,41,Female,South America,Occasional,2024-06-30
+C10086,55,Male,Europe,Inactive,2023-10-27
+C10087,21,Male,South America,Inactive,2023-07-11
+C10088,39,Male,North America,Occasional,2024-08-11
+C10089,28,Male,Asia-Pacific,Regular,2023-09-28
+C10090,40,Female,Asia-Pacific,Occasional,2024-08-17
+C10091,27,Female,North America,Regular,2023-07-22
+C10092,44,Other,North America,Regular,2023-12-12
+C10093,43,Female,North America,Inactive,2023-10-21
+C10094,33,Female,Asia-Pacific,Regular,2024-01-19
+C10095,49,Female,Europe,Occasional,2024-04-21
+C10096,44,Male,North America,Inactive,2024-08-01
+C10097,32,Male,North America,Inactive,2023-12-04
+C10098,37,Female,North America,Regular,2023-08-23
+C10099,43,Male,Europe,Occasional,2023-12-07
+C10100,43,Male,Europe,VIP,2023-11-29
+C10101,43,Female,North America,Inactive,2023-09-16
+C10102,26,Male,Asia-Pacific,Occasional,2024-05-09
+C10103,32,Male,North America,Occasional,2023-10-15
+C10104,30,Male,South America,Regular,2024-05-25
+C10105,38,Male,Asia-Pacific,Inactive,2024-09-22
+C10106,27,Female,Europe,Regular,2024-05-15
+C10107,33,Female,North America,Regular,2024-04-27
+C10108,35,Male,North America,Regular,2023-07-07
+C10109,32,Female,Europe,Occasional,2024-04-07
+C10110,34,Male,Asia-Pacific,Regular,2024-04-21
+C10111,40,Other,North America,Inactive,2023-08-27
+C10112,38,Male,Europe,Inactive,2024-02-29
+C10113,36,Female,Europe,Occasional,2024-06-08
+C10114,61,Female,South America,VIP,2023-10-04
+C10115,26,Male,South America,Inactive,2023-08-23
+C10116,62,Male,North America,Regular,2024-01-23
+C10117,26,Male,Europe,VIP,2023-12-12
+C10118,40,Male,Asia-Pacific,Occasional,2023-10-17
+C10119,58,Male,South America,Occasional,2024-09-16
+C10120,20,Female,Asia-Pacific,VIP,2024-04-23
+C10121,57,Male,North America,Occasional,2024-05-18
+C10122,18,Other,Asia-Pacific,Occasional,2024-03-12
+C10123,52,Male,North America,Regular,2023-09-21
+C10124,36,Female,South America,Occasional,2024-05-16
+C10125,36,Male,Europe,Regular,2023-11-14
+C10126,37,Male,Europe,Occasional,2024-08-05
+C10127,42,Male,North America,Occasional,2024-06-28
+C10128,54,Female,Asia-Pacific,Occasional,2024-07-02
+C10129,37,Female,Asia-Pacific,Regular,2023-06-29
+C10130,43,Female,North America,Regular,2023-09-26
+C10131,52,Male,North America,Occasional,2024-07-25
+C10132,21,Female,North America,Regular,2023-06-17
+C10133,18,Female,North America,Occasional,2024-07-17
+C10134,18,Male,South America,Regular,2023-11-09
+C10135,35,Male,Europe,Regular,2023-12-23
+C10136,40,Male,North America,Inactive,2023-10-16
+C10137,24,Male,Europe,Regular,2023-07-04
+C10138,29,Male,North America,Regular,2023-09-17
+C10139,26,Male,North America,Regular,2024-09-10
+C10140,59,Male,Asia-Pacific,Occasional,2024-09-25
+C10141,36,Male,Asia-Pacific,Inactive,2024-03-17
+C10142,34,Female,Europe,Regular,2024-08-22
+C10143,33,Male,North America,Regular,2024-06-02
+C10144,18,Male,Europe,VIP,2023-11-09
+C10145,52,Male,Europe,Inactive,2023-09-17
+C10146,72,Male,North America,Regular,2024-05-01
+C10147,49,Male,North America,Regular,2024-02-11
+C10148,28,Male,Asia-Pacific,Occasional,2023-12-20
+C10149,23,Female,Asia-Pacific,Regular,2024-08-26
+C10150,36,Female,Europe,Regular,2024-09-11
+C10151,25,Male,North America,Regular,2024-04-25
+C10152,47,Male,South America,Occasional,2024-01-21
+C10153,58,Male,North America,Regular,2023-08-13
+C10154,28,Male,North America,Regular,2023-10-14
+C10155,30,Female,North America,Regular,2023-08-11
+C10156,39,Male,North America,Inactive,2023-10-05
+C10157,35,Female,Asia-Pacific,Regular,2024-06-16
+C10158,42,Female,Europe,Occasional,2024-03-14
+C10159,24,Male,Asia-Pacific,Regular,2024-03-02
+C10160,26,Female,North America,Regular,2023-10-13
+C10161,18,Female,North America,Occasional,2024-06-17
+C10162,35,Female,North America,Regular,2024-03-26
+C10163,21,Male,North America,Inactive,2024-01-06
+C10164,48,Male,Europe,Occasional,2024-09-02
+C10165,29,Female,Europe,Regular,2024-03-25
+C10166,42,Female,South America,Regular,2023-12-22
+C10167,33,Female,South America,Regular,2023-12-03
+C10168,37,Female,Asia-Pacific,Regular,2023-09-21
+C10169,34,Female,North America,Regular,2023-08-10
+C10170,40,Female,Europe,Regular,2024-02-16
+C10171,30,Female,North America,Occasional,2024-02-08
+C10172,18,Male,North America,Occasional,2023-07-17
+C10173,23,Female,North America,Inactive,2024-06-21
+C10174,45,Female,Europe,Regular,2023-06-25
+C10175,18,Female,Europe,Regular,2024-08-14
+C10176,40,Female,Europe,Inactive,2023-07-27
+C10177,31,Female,North America,Regular,2023-08-18
+C10178,45,Male,Europe,Occasional,2024-04-17
+C10179,25,Female,North America,Occasional,2023-08-21
+C10180,32,Female,North America,Regular,2024-07-10
+C10181,24,Female,Europe,Occasional,2024-05-14
+C10182,40,Male,North America,Regular,2024-01-03
+C10183,58,Female,Europe,Regular,2024-04-01
+C10184,43,Male,Europe,Regular,2023-07-03
+C10185,35,Female,North America,Inactive,2023-12-15
+C10186,37,Female,South America,Occasional,2023-12-13
+C10187,44,Male,Europe,Occasional,2024-04-01
+C10188,55,Female,South America,Regular,2024-01-26
+C10189,29,Male,South America,Occasional,2024-02-26
+C10190,36,Female,North America,VIP,2023-10-07
+C10191,49,Male,Asia-Pacific,VIP,2024-10-10
+C10192,23,Female,South America,Regular,2024-03-10
+C10193,18,Male,Europe,Regular,2024-08-14
+C10194,32,Male,North America,Regular,2024-09-25
+C10195,18,Male,South America,Regular,2023-06-06
+C10196,58,Male,Europe,Regular,2024-05-14
+C10197,49,Other,North America,Regular,2024-06-04
+C10198,66,Male,Europe,Regular,2023-07-29
+C10199,36,Female,North America,Regular,2024-05-15
+C10200,35,Female,North America,Occasional,2024-08-27
+C10201,29,Male,Europe,Regular,2024-03-01
+C10202,50,Male,North America,Inactive,2024-06-19
+C10203,18,Female,North America,Regular,2023-10-15
+C10204,22,Male,North America,Occasional,2024-06-28
+C10205,57,Female,North America,Regular,2024-04-24
+C10206,44,Male,North America,Occasional,2023-11-22
+C10207,22,Male,Europe,Regular,2023-07-28
+C10208,33,Female,Asia-Pacific,Occasional,2023-10-29
+C10209,31,Male,Europe,Regular,2024-01-09
+C10210,43,Male,North America,Regular,2023-08-20
+C10211,32,Male,North America,Occasional,2024-01-19
+C10212,47,Female,North America,Regular,2023-06-02
+C10213,33,Male,Europe,Regular,2024-10-01
+C10214,20,Female,North America,Regular,2024-06-04
+C10215,57,Female,Asia-Pacific,Regular,2024-08-22
+C10216,35,Female,Asia-Pacific,Regular,2024-06-03
+C10217,49,Male,North America,Regular,2023-10-13
+C10218,19,Male,Asia-Pacific,Inactive,2024-10-10
+C10219,44,Female,North America,Regular,2024-02-12
+C10220,38,Male,Europe,Occasional,2024-06-25
+C10221,24,Female,North America,VIP,2023-08-31
+C10222,39,Female,Europe,Regular,2024-02-15
+C10223,47,Female,North America,Regular,2024-09-10
+C10224,28,Male,Europe,VIP,2023-07-25
+C10225,36,Female,North America,Regular,2024-08-19
+C10226,24,Female,North America,Occasional,2024-04-16
+C10227,19,Male,Europe,Inactive,2023-10-31
+C10228,25,Male,North America,Occasional,2024-08-04
+C10229,44,Male,Europe,Occasional,2024-04-23
+C10230,49,Male,North America,Occasional,2024-02-15
+C10231,27,Female,Europe,Regular,2024-04-07
+C10232,44,Female,Europe,Regular,2023-09-10
+C10233,29,Female,North America,VIP,2023-08-18
+C10234,35,Male,Europe,Inactive,2023-12-09
+C10235,43,Female,Asia-Pacific,Occasional,2024-06-25
+C10236,46,Male,Europe,Regular,2023-08-22
+C10237,41,Other,South America,VIP,2024-03-03
+C10238,41,Male,Europe,Inactive,2024-10-01
+C10239,38,Male,Europe,Regular,2024-07-03
+C10240,35,Female,Asia-Pacific,Regular,2024-09-15
+C10241,44,Female,North America,Occasional,2024-02-27
+C10242,30,Male,Europe,Regular,2024-09-13
+C10243,32,Female,North America,Regular,2023-06-01
+C10244,53,Male,Europe,Inactive,2024-04-02
+C10245,38,Female,North America,VIP,2023-11-13
+C10246,36,Female,Asia-Pacific,Inactive,2024-02-06
+C10247,48,Male,Asia-Pacific,Regular,2023-06-10
+C10248,63,Female,South America,Occasional,2023-07-28
+C10249,31,Male,North America,Occasional,2024-09-18
+C10250,30,Male,North America,Regular,2023-12-03
+C10251,32,Male,North America,VIP,2024-08-23
+C10252,35,Male,Europe,Regular,2024-07-30
+C10253,38,Female,Asia-Pacific,VIP,2024-07-18
+C10254,47,Female,Europe,Occasional,2023-11-05
+C10255,33,Male,South America,Regular,2023-10-01
+C10256,37,Female,Europe,Regular,2023-06-30
+C10257,41,Male,North America,Regular,2023-10-02
+C10258,28,Male,South America,Inactive,2024-08-23
+C10259,50,Female,South America,Regular,2024-03-17
+C10260,53,Female,North America,Occasional,2024-09-27
+C10261,29,Male,North America,Regular,2023-07-11
+C10262,54,Male,Asia-Pacific,Regular,2023-07-14
+C10263,57,Male,Asia-Pacific,Inactive,2024-06-09
+C10264,39,Female,Europe,VIP,2024-02-04
+C10265,40,Male,North America,Regular,2024-07-22
+C10266,35,Male,North America,Occasional,2023-07-06
+C10267,57,Male,Asia-Pacific,Regular,2024-10-13
+C10268,66,Female,North America,Occasional,2024-06-24
+C10269,29,Female,North America,Inactive,2024-02-28
+C10270,43,Female,Asia-Pacific,Occasional,2024-06-27
+C10271,49,Female,Europe,Occasional,2023-08-04
+C10272,52,Male,Asia-Pacific,Inactive,2023-08-05
+C10273,43,Male,Asia-Pacific,Regular,2024-05-03
+C10274,50,Male,Asia-Pacific,Occasional,2024-01-30
+C10275,26,Female,North America,Regular,2024-09-27
+C10276,38,Female,North America,Occasional,2024-03-08
+C10277,36,Female,Asia-Pacific,Regular,2023-08-24
+C10278,38,Other,North America,Occasional,2023-10-14
+C10279,54,Female,North America,Inactive,2024-02-26
+C10280,30,Male,Europe,VIP,2024-08-20
+C10281,38,Female,North America,Occasional,2024-04-06
+C10282,29,Female,North America,VIP,2024-01-03
+C10283,40,Male,Europe,Occasional,2024-10-06
+C10284,29,Male,South America,Regular,2023-09-17
+C10285,58,Male,North America,Occasional,2024-09-18
+C10286,23,Male,Europe,Occasional,2024-03-03
+C10287,44,Male,South America,Regular,2024-06-21
+C10288,43,Male,Europe,Regular,2024-06-08
+C10289,34,Male,South America,Regular,2024-05-19
+C10290,33,Male,North America,Occasional,2023-09-11
+C10291,40,Male,Asia-Pacific,Regular,2024-05-31
+C10292,40,Female,Asia-Pacific,Occasional,2023-11-07
+C10293,41,Female,North America,VIP,2023-12-22
+C10294,38,Female,Europe,Regular,2024-05-09
+C10295,44,Male,Europe,Regular,2024-04-28
+C10296,35,Male,Europe,Regular,2023-12-09
+C10297,18,Female,North America,Regular,2024-01-11
+C10298,30,Female,North America,Occasional,2024-09-03
+C10299,18,Female,Asia-Pacific,VIP,2024-02-20
+C10300,24,Male,South America,Regular,2024-01-18
+C10301,35,Female,Europe,Occasional,2023-08-01
+C10302,33,Male,Europe,VIP,2023-10-05
+C10303,36,Male,North America,VIP,2023-09-24
+C10304,23,Female,Europe,Occasional,2023-07-03
+C10305,32,Male,North America,Regular,2023-11-21
+C10306,52,Male,South America,VIP,2023-06-11
+C10307,47,Female,Europe,Inactive,2024-03-28
+C10308,46,Male,Asia-Pacific,VIP,2024-03-10
+C10309,43,Female,Europe,Occasional,2023-09-26
+C10310,60,Female,Europe,VIP,2024-03-28
+C10311,27,Male,North America,Regular,2023-09-21
+C10312,32,Other,North America,Regular,2023-06-04
+C10313,41,Female,Europe,Regular,2023-07-07
+C10314,56,Male,South America,Inactive,2024-05-28
+C10315,41,Female,North America,Occasional,2024-04-19
+C10316,32,Female,Europe,Occasional,2023-07-01
+C10317,18,Male,North America,Regular,2023-09-26
+C10318,38,Male,Europe,Regular,2023-07-05
+C10319,48,Female,South America,Regular,2024-09-06
+C10320,43,Female,North America,Occasional,2023-06-17
+C10321,18,Female,Europe,Regular,2024-08-14
+C10322,41,Male,North America,Inactive,2023-11-17
+C10323,39,Male,Asia-Pacific,Regular,2023-07-07
+C10324,42,Male,Europe,Regular,2024-02-19
+C10325,31,Female,North America,Regular,2023-09-30
+C10326,20,Female,North America,Inactive,2023-10-21
+C10327,49,Male,North America,VIP,2024-05-08
+C10328,36,Male,Asia-Pacific,Regular,2024-02-04
+C10329,20,Male,Europe,Occasional,2023-09-18
+C10330,31,Male,Europe,Occasional,2024-03-03
+C10331,31,Male,Asia-Pacific,Occasional,2023-08-07
+C10332,48,Male,North America,Regular,2024-06-05
+C10333,38,Male,Europe,Inactive,2024-09-21
+C10334,44,Male,Europe,VIP,2024-08-25
+C10335,35,Male,South America,Inactive,2024-03-19
+C10336,46,Male,Europe,Regular,2024-03-22
+C10337,40,Female,North America,VIP,2024-01-29
+C10338,49,Male,Europe,Inactive,2023-10-03
+C10339,23,Male,Europe,Regular,2024-07-06
+C10340,33,Female,Asia-Pacific,Inactive,2024-01-29
+C10341,38,Female,Europe,Occasional,2024-07-18
+C10342,38,Male,South America,Occasional,2023-12-26
+C10343,48,Female,North America,Occasional,2023-09-06
+C10344,55,Male,Europe,Inactive,2023-07-19
+C10345,22,Male,South America,Regular,2023-07-20
+C10346,39,Female,Europe,Inactive,2024-05-03
+C10347,41,Male,North America,Occasional,2024-01-07
+C10348,43,Female,North America,Occasional,2023-11-29
+C10349,44,Male,Europe,VIP,2024-01-03
+C10350,22,Male,Europe,Regular,2023-12-28
+C10351,18,Male,North America,Regular,2024-01-26
+C10352,55,Female,Europe,Regular,2024-08-16
+C10353,48,Female,Europe,Regular,2024-06-08
+C10354,19,Female,Europe,Occasional,2023-06-28
+C10355,18,Female,Asia-Pacific,Occasional,2024-05-10
+C10356,45,Male,South America,VIP,2024-04-30
+C10357,39,Female,North America,Regular,2024-04-26
+C10358,18,Male,North America,Occasional,2023-07-21
+C10359,34,Female,North America,Occasional,2023-07-02
+C10360,24,Male,North America,Regular,2023-12-24
+C10361,47,Female,North America,Regular,2024-06-07
+C10362,28,Female,North America,Inactive,2023-11-21
+C10363,39,Female,Asia-Pacific,Occasional,2024-07-14
+C10364,37,Female,Europe,Occasional,2024-08-15
+C10365,30,Female,North America,Regular,2023-07-26
+C10366,19,Female,South America,Regular,2023-10-06
+C10367,56,Male,Asia-Pacific,Regular,2023-09-07
+C10368,32,Female,North America,Occasional,2023-09-06
+C10369,50,Male,Europe,Regular,2024-03-01
+C10370,43,Male,North America,VIP,2024-01-16
+C10371,40,Female,Europe,Regular,2023-08-11
+C10372,29,Female,Europe,Inactive,2024-01-03
+C10373,19,Male,Europe,Regular,2023-09-02
+C10374,56,Female,South America,Regular,2023-10-21
+C10375,29,Male,Europe,Occasional,2024-01-23
+C10376,31,Male,Asia-Pacific,Regular,2023-10-06
+C10377,33,Male,North America,Regular,2024-08-21
+C10378,36,Male,Asia-Pacific,Regular,2024-09-15
+C10379,26,Female,Asia-Pacific,Occasional,2023-07-09
+C10380,18,Male,Europe,Inactive,2024-01-13
+C10381,40,Female,Europe,Occasional,2024-07-18
+C10382,27,Female,South America,Regular,2024-08-15
+C10383,35,Female,North America,Regular,2024-08-12
+C10384,34,Female,North America,Occasional,2024-03-08
+C10385,25,Female,South America,Regular,2023-07-21
+C10386,22,Other,South America,Regular,2023-06-26
+C10387,32,Female,Europe,Occasional,2024-04-29
+C10388,38,Male,Asia-Pacific,Occasional,2024-03-03
+C10389,32,Female,North America,Regular,2024-08-02
+C10390,26,Male,South America,Occasional,2023-06-08
+C10391,20,Male,North America,Regular,2024-10-09
+C10392,40,Female,Europe,Inactive,2023-07-18
+C10393,65,Female,North America,Inactive,2024-09-17
+C10394,36,Male,Asia-Pacific,Inactive,2024-06-20
+C10395,34,Female,Asia-Pacific,Regular,2024-08-08
+C10396,33,Male,Europe,Regular,2023-09-30
+C10397,26,Other,Europe,Occasional,2023-08-25
+C10398,35,Female,Asia-Pacific,Regular,2023-12-26
+C10399,45,Female,North America,Regular,2024-02-04
+C10400,28,Male,North America,Inactive,2024-02-02
+C10401,33,Female,South America,Regular,2023-09-18
+C10402,36,Male,North America,Occasional,2024-08-16
+C10403,18,Male,Europe,Occasional,2023-12-23
+C10404,33,Male,South America,VIP,2024-09-05
+C10405,53,Female,South America,Regular,2023-07-01
+C10406,28,Female,North America,Regular,2023-08-24
+C10407,32,Other,Asia-Pacific,Occasional,2023-12-12
+C10408,47,Female,North America,Regular,2023-06-02
+C10409,18,Female,North America,Regular,2023-12-17
+C10410,21,Female,Europe,Occasional,2023-10-14
+C10411,18,Male,North America,Regular,2024-09-17
+C10412,29,Female,North America,VIP,2024-07-06
+C10413,40,Male,South America,Occasional,2024-07-06
+C10414,35,Male,Europe,Regular,2024-01-19
+C10415,42,Female,North America,Regular,2023-10-25
+C10416,30,Female,Europe,Regular,2024-01-03
+C10417,25,Male,Europe,Occasional,2024-05-22
+C10418,27,Female,North America,Regular,2024-10-03
+C10419,48,Female,North America,Inactive,2024-06-09
+C10420,61,Female,Asia-Pacific,Occasional,2024-07-06
+C10421,28,Female,North America,Regular,2024-03-11
+C10422,41,Female,Europe,VIP,2024-05-04
+C10423,27,Male,Europe,VIP,2024-06-02
+C10424,19,Male,Asia-Pacific,Occasional,2024-02-05
+C10425,24,Male,North America,VIP,2023-08-19
+C10426,50,Male,North America,VIP,2023-09-06
+C10427,44,Other,North America,Occasional,2023-10-30
+C10428,18,Male,North America,Occasional,2023-09-20
+C10429,54,Female,Europe,Regular,2024-10-08
+C10430,28,Other,Europe,Occasional,2023-06-30
+C10431,47,Female,Asia-Pacific,Occasional,2024-03-23
+C10432,31,Female,North America,Regular,2024-06-11
+C10433,25,Male,North America,Occasional,2024-03-04
+C10434,33,Female,Europe,Regular,2023-07-02
+C10435,32,Female,Asia-Pacific,Occasional,2024-06-17
+C10436,33,Female,Europe,Occasional,2023-11-08
+C10437,39,Female,Asia-Pacific,Occasional,2023-06-30
+C10438,38,Other,South America,VIP,2023-06-26
+C10439,20,Male,North America,Occasional,2024-03-26
+C10440,29,Female,Asia-Pacific,Occasional,2024-01-31
+C10441,43,Female,Europe,Regular,2024-02-13
+C10442,42,Female,Asia-Pacific,Occasional,2024-09-13
+C10443,18,Female,North America,Regular,2024-08-10
+C10444,33,Female,North America,Occasional,2024-02-27
+C10445,25,Female,Europe,Regular,2023-08-20
+C10446,50,Female,North America,Occasional,2023-06-30
+C10447,28,Male,Europe,Regular,2024-10-04
+C10448,34,Male,North America,Regular,2024-02-16
+C10449,41,Female,South America,Regular,2023-07-12
+C10450,56,Female,Europe,Regular,2024-08-09
+C10451,31,Male,Europe,VIP,2023-09-04
+C10452,18,Female,North America,Occasional,2023-07-06
+C10453,51,Female,Europe,VIP,2024-03-31
+C10454,54,Female,Europe,Occasional,2023-07-05
+C10455,60,Female,North America,Occasional,2024-05-11
+C10456,26,Male,North America,Occasional,2024-08-15
+C10457,35,Female,Asia-Pacific,Regular,2023-09-29
+C10458,22,Male,North America,VIP,2023-12-24
+C10459,33,Male,Europe,Occasional,2023-08-01
+C10460,23,Female,Asia-Pacific,Regular,2024-09-25
+C10461,58,Male,Asia-Pacific,Regular,2024-08-29
+C10462,58,Male,North America,Regular,2024-03-18
+C10463,54,Male,North America,Occasional,2023-10-05
+C10464,37,Male,South America,Regular,2024-03-23
+C10465,18,Male,Asia-Pacific,Occasional,2024-03-31
+C10466,42,Male,Europe,Regular,2023-06-21
+C10467,29,Male,Europe,Regular,2024-04-13
+C10468,55,Female,North America,Occasional,2023-07-12
+C10469,30,Male,Asia-Pacific,Occasional,2024-01-01
+C10470,34,Male,North America,Inactive,2024-05-02
+C10471,33,Male,North America,Occasional,2024-03-25
+C10472,53,Male,Europe,VIP,2024-03-16
+C10473,32,Male,South America,Regular,2024-02-23
+C10474,18,Male,Asia-Pacific,VIP,2023-11-09
+C10475,46,Female,South America,Occasional,2024-09-21
+C10476,18,Female,South America,Regular,2023-10-12
+C10477,29,Female,North America,Occasional,2023-09-13
+C10478,41,Female,North America,Regular,2024-05-08
+C10479,35,Male,North America,Regular,2024-06-01
+C10480,38,Female,North America,Inactive,2023-11-08
+C10481,49,Female,North America,Occasional,2023-10-01
+C10482,26,Male,Europe,Regular,2023-10-14
+C10483,37,Female,Asia-Pacific,Occasional,2023-12-20
+C10484,18,Female,Europe,VIP,2023-08-07
+C10485,23,Female,Asia-Pacific,Regular,2024-05-09
+C10486,28,Male,North America,Occasional,2024-04-26
+C10487,26,Female,North America,Inactive,2023-11-01
+C10488,32,Other,Asia-Pacific,VIP,2024-01-21
+C10489,18,Male,Europe,Inactive,2023-11-09
+C10490,33,Male,Europe,Occasional,2024-09-18
+C10491,74,Male,Asia-Pacific,Inactive,2024-06-19
+C10492,37,Male,Asia-Pacific,Occasional,2024-09-22
+C10493,18,Female,Asia-Pacific,Regular,2023-07-08
+C10494,36,Male,Europe,Occasional,2023-06-05
+C10495,46,Male,Asia-Pacific,Inactive,2024-01-21
+C10496,31,Male,Asia-Pacific,Occasional,2024-04-14
+C10497,31,Male,North America,Occasional,2024-03-15
+C10498,36,Other,North America,Inactive,2023-07-22
+C10499,52,Female,Europe,Regular,2023-07-08
+C10500,33,Male,North America,Occasional,2024-03-02
+C10501,47,Female,Europe,Inactive,2023-09-18
+C10502,38,Male,Asia-Pacific,Occasional,2024-02-15
+C10503,31,Female,Europe,Regular,2023-10-14
+C10504,51,Male,North America,Regular,2023-08-07
+C10505,34,Female,North America,Regular,2024-09-20
+C10506,46,Male,North America,Regular,2023-11-26
+C10507,42,Male,Europe,Occasional,2024-08-25
+C10508,50,Male,Asia-Pacific,Regular,2023-07-06
+C10509,54,Other,Europe,Regular,2024-08-24
+C10510,21,Female,North America,Regular,2023-10-04
+C10511,50,Female,North America,Occasional,2023-12-07
+C10512,46,Female,Europe,Regular,2023-10-24
+C10513,19,Male,North America,Regular,2023-08-20
+C10514,42,Female,Asia-Pacific,Occasional,2024-01-11
+C10515,38,Female,North America,Inactive,2024-07-31
+C10516,44,Male,North America,Regular,2024-03-05
+C10517,58,Female,Europe,Regular,2024-05-26
+C10518,29,Female,South America,Regular,2023-11-02
+C10519,34,Female,North America,Inactive,2024-04-09
+C10520,44,Male,South America,Occasional,2024-07-18
+C10521,43,Male,Asia-Pacific,Regular,2024-04-30
+C10522,40,Male,North America,VIP,2024-02-26
+C10523,58,Male,North America,Occasional,2023-06-05
+C10524,23,Female,North America,Inactive,2024-05-07
+C10525,23,Female,Europe,Occasional,2024-07-23
+C10526,34,Female,North America,Occasional,2024-03-10
+C10527,33,Other,Asia-Pacific,Regular,2023-11-01
+C10528,24,Male,South America,Occasional,2024-09-20
+C10529,38,Female,Asia-Pacific,Occasional,2024-05-05
+C10530,18,Male,North America,Occasional,2023-07-24
+C10531,44,Female,Asia-Pacific,Regular,2024-09-23
+C10532,55,Female,Europe,Regular,2024-08-23
+C10533,51,Female,North America,Regular,2023-08-08
+C10534,62,Female,Europe,Occasional,2023-10-14
+C10535,33,Female,Europe,VIP,2023-07-30
+C10536,27,Male,North America,Regular,2024-08-29
+C10537,20,Male,South America,Regular,2023-07-25
+C10538,19,Female,North America,Regular,2024-06-15
+C10539,35,Female,North America,VIP,2024-03-10
+C10540,32,Female,Europe,Regular,2023-08-19
+C10541,26,Male,South America,Regular,2023-10-18
+C10542,38,Male,North America,Regular,2023-10-23
+C10543,26,Female,Europe,Occasional,2024-04-05
+C10544,27,Male,North America,Inactive,2023-09-16
+C10545,18,Female,Europe,Regular,2024-06-02
+C10546,30,Male,North America,Occasional,2023-11-23
+C10547,37,Female,North America,Regular,2023-09-13
+C10548,18,Male,North America,Occasional,2024-05-17
+C10549,27,Male,North America,Regular,2024-04-20
+C10550,38,Female,North America,Occasional,2024-08-10
+C10551,41,Male,Europe,Inactive,2023-10-14
+C10552,47,Female,North America,Inactive,2024-02-14
+C10553,39,Male,Europe,Regular,2024-02-06
+C10554,35,Male,Europe,Occasional,2023-10-07
+C10555,33,Male,North America,Occasional,2024-09-06
+C10556,51,Female,Asia-Pacific,Occasional,2024-09-07
+C10557,25,Male,Europe,Regular,2024-08-07
+C10558,48,Male,Asia-Pacific,Occasional,2023-06-27
+C10559,27,Female,South America,Regular,2023-07-18
+C10560,45,Male,Europe,Occasional,2024-04-20
+C10561,18,Female,North America,Regular,2024-01-03
+C10562,22,Female,North America,Regular,2024-07-29
+C10563,33,Male,Europe,Occasional,2023-10-20
+C10564,29,Male,North America,Occasional,2023-06-23
+C10565,33,Female,North America,Regular,2023-06-02
+C10566,35,Female,North America,Regular,2023-11-18
+C10567,39,Male,Europe,Inactive,2024-06-29
+C10568,30,Male,North America,Regular,2023-08-06
+C10569,34,Male,Asia-Pacific,Regular,2024-04-22
+C10570,42,Male,South America,Regular,2023-10-13
+C10571,32,Female,Europe,Occasional,2023-08-22
+C10572,34,Male,North America,Regular,2024-06-14
+C10573,41,Male,Europe,Regular,2024-01-13
+C10574,43,Male,North America,Regular,2024-03-09
+C10575,42,Male,North America,Regular,2024-05-27
+C10576,18,Female,North America,Regular,2024-01-05
+C10577,44,Female,Europe,Regular,2024-03-14
+C10578,49,Female,North America,Regular,2023-06-05
+C10579,59,Male,Europe,Regular,2023-07-28
+C10580,39,Female,Asia-Pacific,Regular,2023-07-09
+C10581,41,Female,North America,Occasional,2024-09-26
+C10582,43,Female,North America,Regular,2024-08-26
+C10583,31,Other,Europe,Inactive,2024-05-19
+C10584,18,Male,North America,Occasional,2024-09-05
+C10585,51,Male,Europe,Regular,2023-08-16
+C10586,48,Other,North America,Occasional,2024-03-06
+C10587,38,Female,Europe,Inactive,2023-06-19
+C10588,33,Female,North America,Occasional,2024-08-01
+C10589,34,Female,North America,Inactive,2023-12-07
+C10590,43,Female,South America,VIP,2024-03-25
+C10591,18,Male,Europe,Occasional,2024-03-09
+C10592,26,Male,North America,Occasional,2023-08-15
+C10593,40,Male,North America,Inactive,2024-01-07
+C10594,47,Male,North America,Occasional,2023-08-05
+C10595,42,Female,Europe,Regular,2023-06-22
+C10596,45,Female,Asia-Pacific,Occasional,2023-11-05
+C10597,45,Female,North America,Regular,2023-12-04
+C10598,34,Male,North America,Regular,2024-09-03
+C10599,27,Male,Asia-Pacific,Inactive,2024-09-20
+C10600,18,Male,Europe,Occasional,2024-07-12
+C10601,38,Female,North America,VIP,2024-10-10
+C10602,18,Male,North America,Occasional,2024-08-14
+C10603,26,Female,North America,Inactive,2023-06-21
+C10604,32,Male,Europe,Inactive,2024-09-03
+C10605,18,Female,North America,Occasional,2023-12-01
+C10606,18,Female,Europe,VIP,2023-09-16
+C10607,38,Female,North America,Occasional,2024-05-15
+C10608,41,Female,Europe,Regular,2023-10-06
+C10609,42,Female,North America,Regular,2024-05-07
+C10610,27,Female,North America,Occasional,2023-07-23
+C10611,31,Male,North America,Regular,2023-11-29
+C10612,32,Female,North America,Regular,2024-07-04
+C10613,37,Female,North America,Regular,2024-03-13
+C10614,19,Female,North America,Occasional,2024-08-26
+C10615,26,Female,North America,Inactive,2024-08-21
+C10616,40,Male,Europe,Regular,2023-12-26
+C10617,34,Male,Europe,Occasional,2024-10-11
+C10618,47,Other,Asia-Pacific,Inactive,2024-04-13
+C10619,50,Female,North America,Regular,2024-06-18
+C10620,43,Male,North America,Inactive,2023-08-19
+C10621,50,Female,North America,Regular,2024-09-16
+C10622,29,Male,North America,Occasional,2024-09-19
+C10623,21,Male,Asia-Pacific,Inactive,2023-09-30
+C10624,43,Male,Asia-Pacific,Regular,2024-08-16
+C10625,22,Female,Europe,Regular,2023-08-23
+C10626,40,Female,North America,Occasional,2024-10-12
+C10627,25,Male,Europe,Regular,2024-07-14
+C10628,32,Male,North America,Regular,2024-07-20
+C10629,43,Female,North America,Occasional,2023-08-30
+C10630,33,Female,North America,Regular,2024-08-25
+C10631,24,Female,North America,Regular,2023-12-29
+C10632,36,Female,North America,Occasional,2023-06-13
+C10633,42,Female,Europe,Inactive,2023-08-31
+C10634,44,Male,North America,VIP,2024-06-12
+C10635,43,Male,Asia-Pacific,Regular,2024-09-16
+C10636,21,Male,North America,Occasional,2023-11-18
+C10637,18,Other,Asia-Pacific,VIP,2024-07-05
+C10638,38,Female,Europe,Regular,2024-09-19
+C10639,38,Male,North America,Regular,2023-12-28
+C10640,34,Female,Europe,VIP,2024-07-15
+C10641,18,Female,South America,Occasional,2024-05-08
+C10642,36,Other,North America,Regular,2024-08-16
+C10643,38,Male,North America,Regular,2024-06-11
+C10644,51,Female,North America,Occasional,2024-07-20
+C10645,42,Female,North America,Occasional,2023-10-06
+C10646,26,Female,North America,Regular,2023-10-15
+C10647,20,Female,Europe,VIP,2023-08-21
+C10648,25,Male,South America,Regular,2024-07-08
+C10649,61,Male,Europe,Occasional,2024-05-25
+C10650,33,Female,Europe,Regular,2023-07-26
+C10651,31,Male,North America,Regular,2023-12-13
+C10652,18,Male,Asia-Pacific,Inactive,2024-08-20
+C10653,32,Female,Asia-Pacific,Regular,2023-06-20
+C10654,18,Male,Europe,VIP,2024-08-13
+C10655,41,Female,South America,Regular,2024-01-27
+C10656,41,Female,North America,Regular,2023-09-22
+C10657,36,Female,North America,Occasional,2023-09-11
+C10658,24,Female,Asia-Pacific,Regular,2024-07-23
+C10659,41,Male,North America,Regular,2024-09-13
+C10660,20,Male,Asia-Pacific,Occasional,2024-01-22
+C10661,43,Male,North America,VIP,2023-11-27
+C10662,61,Male,North America,Regular,2023-11-04
+C10663,33,Female,South America,VIP,2024-07-25
+C10664,28,Male,Asia-Pacific,Inactive,2024-07-12
+C10665,51,Female,Europe,Regular,2024-08-20
+C10666,27,Female,North America,Occasional,2023-09-25
+C10667,45,Male,North America,Inactive,2023-09-23
+C10668,36,Male,North America,VIP,2023-06-13
+C10669,24,Male,Asia-Pacific,Regular,2024-05-03
+C10670,37,Male,Europe,Regular,2023-09-07
+C10671,43,Female,North America,Regular,2023-12-22
+C10672,33,Female,Europe,Regular,2023-11-16
+C10673,47,Male,Europe,Regular,2023-10-21
+C10674,46,Male,North America,VIP,2024-08-16
+C10675,30,Female,Europe,Regular,2023-07-06
+C10676,41,Male,Europe,Occasional,2024-10-08
+C10677,40,Female,North America,Inactive,2024-06-30
+C10678,18,Male,North America,Regular,2023-10-21
+C10679,39,Female,North America,Regular,2023-11-27
+C10680,27,Other,North America,Regular,2024-04-24
+C10681,36,Male,North America,VIP,2024-02-16
+C10682,44,Female,Asia-Pacific,Regular,2023-12-22
+C10683,22,Male,North America,Occasional,2024-05-13
+C10684,30,Male,South America,Occasional,2024-08-05
+C10685,41,Other,Asia-Pacific,Regular,2024-03-01
+C10686,56,Male,Europe,Occasional,2023-11-17
+C10687,47,Male,Asia-Pacific,Occasional,2024-09-23
+C10688,43,Male,Europe,Occasional,2023-06-15
+C10689,18,Male,Europe,Regular,2023-07-30
+C10690,43,Female,Europe,Occasional,2024-08-23
+C10691,33,Male,South America,Occasional,2024-10-09
+C10692,43,Male,Asia-Pacific,Regular,2023-10-12
+C10693,41,Male,North America,Inactive,2023-08-31
+C10694,41,Female,Europe,Inactive,2024-03-24
+C10695,45,Female,North America,Regular,2024-10-05
+C10696,44,Male,North America,Occasional,2023-10-14
+C10697,46,Male,Europe,Inactive,2023-06-20
+C10698,18,Female,Asia-Pacific,Regular,2023-07-26
+C10699,31,Other,North America,Regular,2024-04-01
+C10700,44,Male,Asia-Pacific,Occasional,2024-01-09
+C10701,41,Male,North America,Inactive,2023-11-24
+C10702,30,Male,Asia-Pacific,Occasional,2024-06-08
+C10703,25,Female,North America,Occasional,2024-07-07
+C10704,50,Female,North America,Occasional,2023-11-08
+C10705,39,Male,Europe,Regular,2024-01-10
+C10706,23,Female,North America,Occasional,2024-04-06
+C10707,19,Male,North America,Occasional,2024-02-17
+C10708,29,Female,North America,VIP,2023-07-30
+C10709,18,Male,South America,Occasional,2023-12-15
+C10710,49,Male,North America,Occasional,2024-09-03
+C10711,53,Male,North America,Regular,2024-03-22
+C10712,40,Male,Europe,Regular,2023-09-06
+C10713,35,Other,North America,Regular,2023-10-09
+C10714,46,Male,North America,Regular,2023-06-23
+C10715,48,Male,North America,Regular,2024-05-28
+C10716,24,Female,South America,Occasional,2024-01-10
+C10717,23,Male,North America,Inactive,2023-06-01
+C10718,29,Female,Europe,Occasional,2024-02-22
+C10719,32,Male,North America,Inactive,2024-09-16
+C10720,45,Female,Europe,Regular,2024-07-17
+C10721,22,Male,Europe,Inactive,2024-03-02
+C10722,42,Male,Europe,Occasional,2024-05-17
+C10723,40,Female,North America,VIP,2024-06-03
+C10724,18,Male,South America,Regular,2024-09-24
+C10725,42,Female,North America,Occasional,2024-06-14
+C10726,35,Male,Europe,Inactive,2024-06-12
+C10727,33,Male,North America,Regular,2024-05-09
+C10728,56,Female,North America,Occasional,2023-09-09
+C10729,52,Male,North America,Inactive,2023-12-04
+C10730,26,Male,North America,VIP,2024-01-07
+C10731,27,Male,Europe,Occasional,2023-07-06
+C10732,29,Female,Asia-Pacific,Occasional,2024-09-28
+C10733,38,Female,South America,Regular,2024-05-06
+C10734,41,Female,Europe,Regular,2024-09-14
+C10735,21,Male,North America,Inactive,2023-11-17
+C10736,48,Male,North America,Inactive,2024-04-15
+C10737,64,Female,Asia-Pacific,Regular,2023-11-08
+C10738,19,Female,North America,Regular,2024-05-05
+C10739,44,Female,South America,VIP,2024-08-08
+C10740,29,Male,North America,Regular,2023-08-03
+C10741,46,Female,North America,Regular,2024-06-03
+C10742,30,Female,North America,Regular,2024-09-03
+C10743,53,Male,North America,Regular,2023-11-01
+C10744,45,Female,Europe,Regular,2024-02-15
+C10745,40,Male,North America,Regular,2023-11-06
+C10746,71,Male,North America,Occasional,2024-05-07
+C10747,50,Female,North America,Inactive,2023-12-27
+C10748,34,Male,Europe,Inactive,2023-11-15
+C10749,39,Female,North America,Regular,2023-12-24
+C10750,38,Male,Asia-Pacific,Occasional,2024-05-22
+C10751,71,Female,Asia-Pacific,Occasional,2023-10-30
+C10752,60,Male,Europe,Regular,2024-03-10
+C10753,22,Female,North America,Regular,2023-08-05
+C10754,47,Female,North America,VIP,2023-09-07
+C10755,47,Male,North America,Inactive,2024-01-02
+C10756,27,Male,North America,Regular,2024-05-06
+C10757,20,Female,North America,VIP,2024-09-24
+C10758,19,Male,South America,Occasional,2023-12-12
+C10759,29,Female,North America,Regular,2024-05-12
+C10760,58,Female,North America,Regular,2024-06-18
+C10761,40,Male,Asia-Pacific,Occasional,2024-09-05
+C10762,23,Female,North America,Regular,2023-08-29
+C10763,37,Male,Europe,Regular,2024-04-11
+C10764,46,Male,Europe,Regular,2024-03-18
+C10765,33,Male,Asia-Pacific,VIP,2023-11-02
+C10766,67,Female,Europe,Regular,2023-12-25
+C10767,22,Male,Europe,Regular,2024-03-07
+C10768,40,Female,Europe,Regular,2024-07-31
+C10769,40,Female,Europe,Regular,2023-06-01
+C10770,26,Male,Asia-Pacific,Inactive,2023-11-03
+C10771,35,Male,North America,Inactive,2023-10-25
+C10772,46,Other,North America,Occasional,2023-09-16
+C10773,18,Male,North America,Occasional,2024-01-07
+C10774,18,Male,North America,Regular,2024-07-07
+C10775,43,Male,North America,Regular,2024-03-23
+C10776,46,Female,North America,Regular,2024-04-06
+C10777,51,Female,Europe,VIP,2024-05-01
+C10778,43,Female,North America,Occasional,2023-11-12
+C10779,44,Female,Asia-Pacific,Occasional,2024-01-25
+C10780,37,Male,Europe,Occasional,2024-01-13
+C10781,52,Female,North America,Regular,2024-01-13
+C10782,39,Female,Asia-Pacific,Occasional,2024-05-11
+C10783,41,Female,Asia-Pacific,Occasional,2023-09-18
+C10784,23,Male,Europe,Regular,2024-02-17
+C10785,40,Male,North America,Regular,2024-01-29
+C10786,31,Female,Europe,Regular,2024-07-11
+C10787,19,Male,Europe,Regular,2024-09-04
+C10788,42,Female,North America,Occasional,2024-10-04
+C10789,48,Male,South America,Occasional,2024-07-12
+C10790,21,Male,Europe,Regular,2024-06-11
+C10791,25,Female,North America,Occasional,2023-08-26
+C10792,42,Female,North America,VIP,2024-05-03
+C10793,43,Female,North America,Regular,2023-07-14
+C10794,40,Male,Europe,Regular,2023-10-24
+C10795,18,Female,Asia-Pacific,Regular,2024-02-19
+C10796,40,Male,Europe,VIP,2024-05-05
+C10797,39,Male,South America,Regular,2024-04-20
+C10798,45,Female,South America,Regular,2024-04-13
+C10799,43,Male,North America,Regular,2023-11-19
+C10800,35,Female,Europe,Regular,2023-07-18
+C10801,34,Female,North America,VIP,2024-07-24
+C10802,43,Female,North America,Occasional,2024-09-30
+C10803,51,Female,Europe,Occasional,2024-06-19
+C10804,38,Female,South America,Occasional,2023-09-29
+C10805,48,Male,Europe,Regular,2024-05-10
+C10806,41,Female,South America,Regular,2023-11-06
+C10807,19,Female,North America,Inactive,2023-09-24
+C10808,43,Female,North America,Regular,2024-07-17
+C10809,46,Female,Europe,Regular,2023-09-10
+C10810,59,Female,Europe,Regular,2023-08-15
+C10811,36,Male,Europe,Occasional,2023-06-13
+C10812,42,Male,Europe,Occasional,2023-06-24
+C10813,25,Male,North America,Occasional,2023-10-04
+C10814,54,Female,Asia-Pacific,Inactive,2024-01-30
+C10815,46,Female,Europe,Regular,2024-04-08
+C10816,38,Male,South America,Occasional,2024-08-09
+C10817,22,Female,North America,VIP,2024-06-28
+C10818,35,Male,Europe,Inactive,2023-07-08
+C10819,30,Female,Europe,Regular,2024-01-20
+C10820,43,Male,Asia-Pacific,Inactive,2023-12-30
+C10821,26,Male,Asia-Pacific,Occasional,2024-08-27
+C10822,35,Female,North America,Regular,2024-04-18
+C10823,41,Male,South America,Occasional,2024-03-21
+C10824,33,Male,North America,Regular,2023-09-08
+C10825,27,Male,North America,Regular,2024-06-02
+C10826,32,Other,Asia-Pacific,Inactive,2024-05-22
+C10827,33,Male,North America,Occasional,2023-12-14
+C10828,21,Male,North America,Regular,2024-02-09
+C10829,23,Male,Europe,VIP,2023-12-22
+C10830,43,Male,North America,Inactive,2023-10-03
+C10831,29,Male,North America,Regular,2023-08-15
+C10832,42,Female,North America,Occasional,2024-05-01
+C10833,18,Female,North America,Occasional,2024-05-18
+C10834,34,Male,Europe,Regular,2023-06-03
+C10835,18,Female,North America,Regular,2024-08-31
+C10836,56,Female,Europe,Occasional,2024-06-19
+C10837,32,Female,North America,Regular,2024-08-14
+C10838,32,Male,Europe,Occasional,2024-06-29
+C10839,46,Female,Europe,Occasional,2024-08-27
+C10840,47,Male,North America,Regular,2023-07-25
+C10841,31,Female,North America,Regular,2024-07-03
+C10842,58,Female,Europe,Regular,2024-01-04
+C10843,55,Female,North America,Occasional,2023-09-21
+C10844,38,Male,North America,Regular,2023-08-30
+C10845,22,Male,Asia-Pacific,Regular,2024-07-16
+C10846,22,Male,Asia-Pacific,Regular,2024-10-03
+C10847,38,Male,Europe,Occasional,2024-05-22
+C10848,29,Female,North America,Regular,2024-02-21
+C10849,41,Female,North America,Regular,2024-01-24
+C10850,42,Female,North America,Regular,2023-06-26
+C10851,50,Male,North America,Regular,2024-03-12
+C10852,24,Male,South America,Regular,2023-10-06
+C10853,27,Male,Asia-Pacific,Regular,2024-09-12
+C10854,18,Female,South America,Occasional,2024-08-08
+C10855,30,Male,Asia-Pacific,Regular,2023-08-02
+C10856,37,Female,South America,Regular,2024-01-20
+C10857,18,Female,North America,VIP,2023-08-08
+C10858,18,Female,North America,VIP,2024-07-15
+C10859,56,Male,North America,VIP,2024-01-24
+C10860,29,Female,North America,Regular,2024-05-07
+C10861,39,Male,Asia-Pacific,Regular,2024-02-27
+C10862,29,Female,North America,Occasional,2024-03-13
+C10863,40,Female,South America,Regular,2024-03-31
+C10864,37,Female,North America,Regular,2023-11-10
+C10865,51,Male,South America,Occasional,2024-09-29
+C10866,34,Female,Europe,Regular,2024-06-21
+C10867,38,Female,South America,Inactive,2024-08-30
+C10868,25,Male,South America,VIP,2024-01-13
+C10869,47,Female,Europe,Occasional,2024-04-09
+C10870,28,Male,North America,Regular,2024-07-22
+C10871,33,Female,South America,Regular,2024-06-03
+C10872,43,Male,North America,Regular,2024-08-30
+C10873,33,Female,North America,Inactive,2024-02-14
+C10874,37,Male,Europe,Occasional,2024-01-05
+C10875,18,Female,Asia-Pacific,Occasional,2024-07-30
+C10876,24,Male,Asia-Pacific,Inactive,2024-09-07
+C10877,56,Female,North America,Occasional,2024-03-07
+C10878,26,Male,North America,Regular,2024-01-15
+C10879,28,Female,North America,Occasional,2024-09-02
+C10880,18,Female,North America,Occasional,2023-08-21
+C10881,39,Male,North America,Regular,2024-06-15
+C10882,46,Male,Europe,Occasional,2024-08-15
+C10883,37,Female,Asia-Pacific,Occasional,2024-01-30
+C10884,44,Male,North America,VIP,2024-01-17
+C10885,39,Female,Asia-Pacific,Regular,2023-10-11
+C10886,22,Male,South America,Regular,2024-06-19
+C10887,64,Male,Europe,Occasional,2023-10-05
+C10888,36,Female,North America,Regular,2024-08-04
+C10889,33,Female,North America,Inactive,2024-04-22
+C10890,18,Male,North America,Occasional,2023-10-20
+C10891,25,Male,North America,Occasional,2024-06-27
+C10892,41,Male,Asia-Pacific,Occasional,2024-07-03
+C10893,18,Male,North America,Regular,2024-02-22
+C10894,28,Male,North America,Regular,2024-02-04
+C10895,48,Female,Asia-Pacific,Regular,2024-04-16
+C10896,50,Female,North America,Regular,2023-10-01
+C10897,30,Male,South America,Regular,2023-10-19
+C10898,38,Female,North America,Regular,2024-01-12
+C10899,41,Male,North America,Occasional,2023-07-10
+C10900,36,Female,North America,Regular,2024-05-31
+C10901,41,Male,Europe,Inactive,2023-10-25
+C10902,28,Male,Europe,Regular,2023-09-29
+C10903,38,Female,Asia-Pacific,Occasional,2023-10-18
+C10904,19,Male,North America,Regular,2023-11-19
+C10905,27,Female,Europe,VIP,2023-11-11
+C10906,21,Male,Asia-Pacific,VIP,2024-08-31
+C10907,31,Male,North America,Inactive,2024-03-03
+C10908,18,Female,Europe,Inactive,2023-07-12
+C10909,39,Male,Asia-Pacific,Inactive,2023-08-10
+C10910,38,Female,North America,Occasional,2023-08-17
+C10911,44,Female,Europe,Regular,2023-09-27
+C10912,45,Male,Asia-Pacific,Regular,2023-12-14
+C10913,42,Female,North America,Regular,2024-05-21
+C10914,33,Female,Europe,Regular,2023-08-18
+C10915,39,Male,Europe,Regular,2024-05-27
+C10916,34,Female,North America,Occasional,2023-09-18
+C10917,41,Female,South America,Regular,2023-07-03
+C10918,27,Other,North America,Occasional,2023-12-30
+C10919,46,Female,Europe,Regular,2023-12-26
+C10920,20,Male,Europe,Regular,2023-11-17
+C10921,42,Male,North America,Regular,2024-03-04
+C10922,40,Male,North America,Regular,2024-01-25
+C10923,39,Male,Europe,Occasional,2023-12-30
+C10924,30,Male,Asia-Pacific,Inactive,2023-07-02
+C10925,28,Male,North America,Inactive,2023-09-14
+C10926,34,Male,North America,Occasional,2024-07-31
+C10927,44,Male,North America,Occasional,2024-01-02
+C10928,34,Female,North America,Inactive,2023-12-17
+C10929,35,Female,North America,Occasional,2024-09-06
+C10930,41,Male,Europe,VIP,2024-06-29
+C10931,32,Male,Asia-Pacific,Occasional,2024-03-26
+C10932,27,Female,South America,VIP,2024-09-27
+C10933,27,Male,North America,Inactive,2024-05-22
+C10934,18,Male,North America,Regular,2023-06-11
+C10935,31,Male,Europe,Occasional,2024-08-12
+C10936,28,Male,North America,Regular,2024-08-24
+C10937,41,Male,Europe,VIP,2024-06-26
+C10938,34,Female,North America,Occasional,2024-03-21
+C10939,31,Male,Asia-Pacific,Inactive,2023-12-12
+C10940,23,Male,North America,Occasional,2024-01-31
+C10941,26,Female,Europe,Occasional,2023-06-04
+C10942,22,Female,North America,Occasional,2024-09-25
+C10943,32,Male,North America,Inactive,2023-11-28
+C10944,46,Female,North America,Regular,2023-10-31
+C10945,57,Female,North America,Regular,2024-06-20
+C10946,44,Female,North America,Inactive,2023-12-17
+C10947,18,Female,Asia-Pacific,Occasional,2024-08-10
+C10948,24,Female,North America,Inactive,2024-08-30
+C10949,27,Male,North America,Inactive,2024-10-01
+C10950,46,Male,Europe,Occasional,2024-08-01
+C10951,41,Female,Europe,Occasional,2024-01-01
+C10952,18,Female,North America,Occasional,2024-03-02
+C10953,29,Male,Europe,Occasional,2024-06-17
+C10954,39,Female,North America,Occasional,2024-06-11
+C10955,24,Male,Europe,Inactive,2024-03-06
+C10956,30,Male,North America,Regular,2024-07-14
+C10957,18,Male,Europe,Regular,2024-04-04
+C10958,20,Male,Europe,Inactive,2024-09-02
+C10959,38,Male,Asia-Pacific,Occasional,2023-09-21
+C10960,36,Male,North America,Occasional,2024-02-05
+C10961,70,Male,South America,Regular,2023-09-21
+C10962,41,Male,Europe,Occasional,2023-10-18
+C10963,27,Female,Asia-Pacific,Occasional,2024-01-10
+C10964,40,Male,North America,Regular,2024-02-04
+C10965,37,Male,Europe,Occasional,2023-06-15
+C10966,33,Female,North America,Occasional,2023-12-17
+C10967,36,Female,North America,Regular,2023-11-20
+C10968,38,Male,North America,Occasional,2024-05-08
+C10969,43,Female,North America,VIP,2024-05-13
+C10970,25,Male,North America,Regular,2024-07-13
+C10971,52,Female,South America,Occasional,2023-12-25
+C10972,25,Female,North America,Occasional,2024-06-05
+C10973,36,Male,North America,VIP,2023-08-24
+C10974,28,Male,South America,Regular,2024-08-04
+C10975,32,Female,Asia-Pacific,Inactive,2024-01-26
+C10976,51,Male,North America,Regular,2024-09-13
+C10977,40,Female,Europe,Regular,2023-08-05
+C10978,40,Male,Europe,Occasional,2024-04-14
+C10979,24,Female,Asia-Pacific,Inactive,2024-02-29
+C10980,57,Female,North America,VIP,2023-06-14
+C10981,35,Male,North America,Occasional,2024-09-07
+C10982,31,Male,South America,Regular,2023-12-19
+C10983,40,Male,Europe,Regular,2024-03-30
+C10984,38,Female,North America,Occasional,2024-03-15
+C10985,25,Female,North America,Regular,2024-05-05
+C10986,22,Male,Europe,Inactive,2023-06-14
+C10987,46,Female,Europe,Occasional,2023-07-13
+C10988,52,Male,North America,Occasional,2024-04-25
+C10989,19,Female,North America,Inactive,2024-01-06
+C10990,23,Female,North America,Occasional,2023-08-09
+C10991,50,Male,North America,Inactive,2024-08-17
+C10992,29,Female,South America,Regular,2024-01-23
+C10993,31,Male,North America,Regular,2023-09-02
+C10994,41,Other,Europe,Regular,2023-06-26
+C10995,24,Male,North America,Inactive,2023-10-12
+C10996,18,Female,North America,Occasional,2023-12-12
+C10997,19,Male,Asia-Pacific,Inactive,2023-11-15
+C10998,40,Male,Europe,Occasional,2023-09-17
+C10999,37,Female,North America,Regular,2024-01-19
